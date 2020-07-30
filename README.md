@@ -14,6 +14,6 @@ Chinese Users may feel like the speed is slow, They need a ledder(escaping...
 
 ## 目前挂载的内容:(请前往Release下载)
 
-1. HydroV(MX-Codingland客户端)(MX-Codingland Client)
+1. **HydroV**(MX-Codingland客户端)(MX-Codingland Client)
    - Version:1.0.1 2020/07/28 (发布有延迟)(Release Delayed)
 2. 
